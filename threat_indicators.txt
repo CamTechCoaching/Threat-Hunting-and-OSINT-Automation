@@ -1,0 +1,4 @@
+203.0.113.45
+bad-domain.com
+198.51.100.12
+malicious-hash-xyz
